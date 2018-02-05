@@ -1,0 +1,25 @@
+{
+  "name": "react-appbase",
+  "version": "0.1.0",
+  "description": "Common code used by Winterwell and Good-Loop apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/good-loop/react-appbase.git"
+  },
+  "keywords": [
+    "react",
+    "app",
+    "webapp",
+    "framework"
+  ],
+  "author": "Daniel Winterstein",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/good-loop/react-appbase/issues"
+  },
+  "homepage": "https://github.com/good-loop/react-appbase#readme"
+}
